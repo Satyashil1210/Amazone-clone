@@ -1,7 +1,7 @@
 
 # Amazon Clone
 
-🛒 A static front-end clone of Amazon's homepage, built using HTML and CSS.
+ A static front-end clone of Amazon's homepage, built using HTML and CSS.
 
 ## Features
 - Clean UI layout
